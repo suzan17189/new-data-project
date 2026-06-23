@@ -1,13 +1,13 @@
-﻿Installed Type,OLT_Count,,,,Duplicated Data Inputting_Count,Column Labels,,,
-Infra_OLT,64,,,,Duplicat Count,Infra_OLT,SBS_OLT,Testing_OLT,Grand Total
-SBS_OLT,715,,,,2,13,279,,292
-Testing_OLT,1,,,,3,,46,,46
-Grand Total,780,,,,4,,11,,11
-,,,,,5,,5,,5
-,,,,,6,,3,,3
-,,,,,7,,4,,4
-,,,,,None,47,366,,413
-,,,,,Testing OLT,,,1,1
-,,,,,To Fill Data at OSS,4,1,,5
-,,,,,Grand Total,64,715,1,780
-,,,,,(%),20%,49%,,
+﻿Installed Type,OLT_Count,,,,Duplicated Data Inputting_Count,Column Labels,,,,,,,,,,,
+Infra_OLT,64,,,,Duplicat Count,Infra_OLT,SBS_OLT,Testing_OLT,Grand Total,,,MAC_Analysis  Result,Column Labels,,,,
+SBS_OLT,715,,,,2,13,279,,292,,,Row Labels,mac _Data Correct,Need to Fill MAC ,Need to Update mac,To Fill Data at OSS,Grand Total
+Testing_OLT,1,,,,3,,46,,46,,,Infra_OLT,6,54,,4,64
+Grand Total,780,,,,4,,11,,11,,,SBS_OLT,549,157,8,1,715
+,,,,,5,,5,,5,,,Testing_OLT,,1,,,1
+,,,,,6,,3,,3,,,Grand Total,555,212,8,5,780
+,,,,,7,,4,,4,,,(%) for Infra_OLT,0.09375,0.84375,0,0.0625,
+,,,,,None,47,366,,413,,,(%) for SBS_OLT,0.767832168,0.21958042,0.011188811,0.001398601,
+,,,,,Testing OLT,,,1,1,,,,,,,,
+,,,,,To Fill Data at OSS,4,1,,5,,,,,,,,
+,,,,,Grand Total,64,715,1,780,,,,,,,,
+,,,,,(%),20%,49%,,,,,,,,,,
